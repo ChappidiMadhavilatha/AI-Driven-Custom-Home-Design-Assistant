@@ -3,15 +3,15 @@ Category: Cloud Application Development
 
 # Deploy App Link :
 
-
+https://ai-driven-custom-home-design-assistant-aniqmlmkruzgygbwsh6wzc.streamlit.app/
 
 # Video Demo:
 
-
+https://drive.google.com/file/d/1iNBPSga0D14Aifg0ZInAnEfmSaizN9Lu/view?usp=drive_link
 
 # Project Document:
 
-
+https://docs.google.com/document/d/1lCmF5U4wTTChvyfa_6ErwvF7mZPp-sfn/edit?usp=drive_link&ouid=116826024846639686122&rtpof=true&sd=true
 
 Skills Required: Machine Learning
 
